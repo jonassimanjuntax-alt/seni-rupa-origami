@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Dunia Origami 3D - SD Teramia",
+  "description": "Game edukasi interaktif 3D seni melipat kertas (origami) untuk SD TERAMIA kelas 3 dengan mode kompetisi Tim Merah vs Tim Putih, tutorial animasi 3D langkah demi langkah, dan teka-teki silang interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
